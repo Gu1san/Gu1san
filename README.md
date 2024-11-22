@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **about Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gu1san](https://github.com/Gu1san)
-
 - 📫 How to reach me **guilhermecesario1808@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-cesário-b5138221a/](https://www.linkedin.com/in/guilherme-cesário-b5138221a/)
