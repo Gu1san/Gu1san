@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on [a personal project](https://github.com/Gu1san/N_F)
 
 - 🌱 I’m currently learning **about Unreal Engine**
-<!---
-- 👨‍💻 All of my projects are available at [https://github.com/Gu1san](https://github.com/Gu1san)
---->
+  
+- 👨‍💻 All of my projects are available at [my portfolio repository](https://github.com/Gu1san/Portfolio)
+  
 - 📫 How to reach me **guilhermecesario1808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
