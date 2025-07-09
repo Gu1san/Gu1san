@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 I’m currently working on [a personal project](https://github.com/Gu1san/N_F) · Atualmente trabalhando em [um projeto pessoal](https://github.com/Gu1san/N_F)
+<!--- - 🔭 I’m currently working on [a personal project](https://github.com/Gu1san/N_F) · Atualmente trabalhando em [um projeto pessoal](https://github.com/Gu1san/N_F) --->
 
-- 🌱 I’m currently learning **about Unreal Engine** · Atualmente aprendendo mais sobre **Unreal Engine**
+- 🌱 I’m currently learning about **Back-end** · Atualmente aprendendo sobre **Back-end**
 
 - 👨‍💻 All of my projects are available at [my portfolio repository](https://github.com/Gu1san/Portfolio) · Todos os meus projetos estão no [repositório do portfólio](https://github.com/Gu1san/Portfolio)
 
