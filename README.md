@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A passionate Game and Mobile developer from Brazil</h3>
-<h3 align="center">Desenvolvedor apaixonado por Jogos e Mobile do Brasil</h3>
+<h3 align="center">A software developer from Brazil</h3>
+<h3 align="center">Desenvolvedor de software do Brasil</h3>
 
 ---
 
-<!--- - 🔭 I’m currently working on [a personal project](https://github.com/Gu1san/N_F) · Atualmente trabalhando em [um projeto pessoal](https://github.com/Gu1san/N_F) --->
+- 🔭 I’m currently working on [a finance manager](https://github.com/Gu1san/Finance-Manager-Backend) · Atualmente trabalhando em [um gerenciador de finanças](https://github.com/Gu1san/Finance-Manager-Backend)
 
 - 🌱 I’m currently learning about **Back-end** · Atualmente aprendendo sobre **Back-end**
 
