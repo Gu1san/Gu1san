@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **Back-end** · Atualmente aprendendo sobre **Back-end**
 
-- 👨‍💻 All of my projects are available at [my portfolio repository](https://github.com/Gu1san/Portfolio) · Todos os meus projetos estão no [repositório do portfólio](https://github.com/Gu1san/Portfolio)
+- 👨‍💻 All of my projects are available at [my portfolio repository (EN)](https://github.com/Gu1san/Portfolio/blob/main/README-en.md) · Todos os meus projetos estão no [repositório do portfólio (PT)](https://github.com/Gu1san/Portfolio/blob/main/README-pt.md)
 
 - 📫 How to reach me: **guilhermecesario1808@gmail.com** · Como entrar em contato: **guilhermecesario1808@gmail.com**
 
